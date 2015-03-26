@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[PODYWU]]></title>
+  <link href="http://podywu.hanke.pw/atom.xml" rel="self"/>
+  <link href="http://podywu.hanke.pw/"/>
+  <updated>2015-03-26T16:05:10+08:00</updated>
+  <id>http://podywu.hanke.pw/</id>
+  <author>
+    <name><![CDATA[podywu]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
